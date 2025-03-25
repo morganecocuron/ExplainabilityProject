@@ -9,3 +9,5 @@ You will have access to 4 folders :
 3) POWERBI_Dashboard : contains our dashboard done on powerBI Desktop. 
 
 4) PresentationSlides : project slides. 
+
+This project was conducted by COCURON Morgane, BROSSIER Léandre, SKANDERI Elyes, FIGARD Clément, EL AYOUBI Hilal, BOURDET Caroline. 
